@@ -3,7 +3,7 @@
 https://www.kaggle.com/datasets/sameerkulkarni91/buenos-aires-airbnb-data
 
 ## Estructura del proyecto:
-### aibnb-queries - Queries con las consultas SQL
+#### aibnb-queries - Queries con las consultas SQL
 #### raw_dataset - Dataset original
 #### processed_dataset - Dataset resultante de la limpieza inicial con Pandas
 #### notebooks/ notebooks 01 - Limpieza inicial del dataset original

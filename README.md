@@ -3,11 +3,10 @@
 https://www.kaggle.com/datasets/sameerkulkarni91/buenos-aires-airbnb-data
 
 ## Estructura del proyecto:
-
-#### raw_dataset/ CSV original sin modificar.
-#### processed_dataset/ Dataset limpio
-#### notebooks/ notebooks 01 ->
-#### notebooks/ notebooks 02 -> 
+## aibnb-queries 
+#### raw_dataset
+#### processed_dataset
+#### notebooks/ notebooks 01 
 #### requirements.txt 
 #### LICENSE
 
@@ -70,5 +69,4 @@ El dataset no incluye variables como metros cuadrados, amenities o cantidad de h
 - Incorporar consultas SQL para responder preguntas de negocio
 - Profundizar el análisis exploratorio del dataset
 - Continuar mejorando el proceso de limpieza y validación de datos
-
 
